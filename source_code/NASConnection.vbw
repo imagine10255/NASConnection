@@ -1,0 +1,6 @@
+frmLoading = 51, 14, 953, 595, , 65, 158, 840, 569, C
+modSystemICON = 56, 56, 831, 505, 
+modConnection = 96, 48, 985, 578, 
+frmHelpSetup = 98, 128, 994, 675, , 665, 271, 896, 505, C
+modLoading = 154, 203, 1042, 733, 
+frmCopyRight = 132, 174, 1088, 598, , 110, 145, 1066, 569, C
